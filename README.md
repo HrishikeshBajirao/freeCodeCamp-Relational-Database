@@ -1,4 +1,4 @@
-# freeCodeCamp - Pelational Database Certification
+# freeCodeCamp - Relational Database Certification
 
 ![Certification](./Certification-Relational-Database.png)
 
