@@ -1,4 +1,7 @@
 # freeCodeCamp - Pelational Database Certification
+
+![Certification](Screenshot 2025-04-06 142750.png)
+
 ## Certification Projects
 
 1. [Celestial Bodies Database](https://github.com/HrishikeshBajirao/freeCodeCamp-Relational-Database/tree/main/CERTIFICATION%20-%20Celestial%20Bodies%20Database)
