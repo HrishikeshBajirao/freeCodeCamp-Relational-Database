@@ -1,6 +1,6 @@
 # freeCodeCamp - Pelational Database Certification
 
-![Certification](Screenshot 2025-04-06 142750.png)
+![Certification](./Screenshot 2025-04-06 142750.png)
 
 ## Certification Projects
 
